@@ -20,6 +20,7 @@ IT Operations Analyst with experience supporting Windows and Linux environments,
 - Perform incident triage and root cause analysis.
 - Create technical documentation and knowledge base articles.
 - Assist with AWS administration and system integrations.
+- Data Migration from on prem to AWS cloud.
 
 ### Medical Record Officer
 **Charak Memorial Hospital** | 2019 – 2020
